@@ -1,0 +1,7 @@
+# Abaikan file sensitif dan berat
+train_model.py
+fraud_model.pkl
+scaler.pkl
+__pycache__/
+*.db
+*.json
