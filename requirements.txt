@@ -5,4 +5,7 @@ scikit-learn
 joblib
 gspread
 google-auth
+oauth2client
+opencv-python-headless
+Pillow
 xlsxwriter
